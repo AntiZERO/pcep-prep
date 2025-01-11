@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore temporary files and editor backups
+*~
+*.swp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VS Code specific files
+.vscode/
